@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">আমার কুরান</string>
+    <string name="bangla">বাংলা</string>
+    <string name="surah_list">সূরা তালিকা</string>
+    <string name="al_faatiha">আল-ফাতিহা</string>
+</resources>

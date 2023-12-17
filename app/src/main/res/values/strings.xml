@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Quran</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="english" translatable="false">English</string>
+    <string name="bangla">Bangla</string>
+    <string name="surah_list">Surah List</string>
+    <string name="al_faatiha">Al-Faatiha</string>
+</resources>
